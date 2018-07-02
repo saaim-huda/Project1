@@ -7,7 +7,7 @@ Step 2: Run the user.sql script
 Step 3: Run the  ~/WebContent/jsps/main.jsp in a local webserver(tomcat)
 _____________________________________________________________________________________________________
 
-Please change the name and password if the database connection setting is not compatible with my code (name is â€œrootâ€� and password is â€œrootâ€�) 
+Please change the name and password if the database connection setting is not compatible with my code 
 
 This project shows a small web java example:
 
